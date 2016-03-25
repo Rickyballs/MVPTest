@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+    <string name="city">城市</string>
+    <string name="wd">风向</string>
+    <string name="ws">风级</string>
+    <string name="time">发布时间</string>
+</resources>
